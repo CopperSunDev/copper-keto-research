@@ -1,0 +1,415 @@
+{
+  "productName": "Copper Keto Companion",
+  "indexName": "Keto Research",
+  "liveUrl": "https://coppersuncompanion.com/keto/research",
+  "appUrl": "https://coppersuncompanion.com/keto",
+  "lastVerified": "June 2026",
+  "healthDomain": true,
+  "generated": "derived from canonical config; do not hand-edit",
+  "topics": [
+    {
+      "slug": "weight-loss",
+      "title": "Weight Loss & Fat Metabolism",
+      "question": "Does a ketogenic diet actually drive weight and fat loss, and how does it compare with other diets?",
+      "sources": [
+        {
+          "title": "Low-Carbohydrate vs Balanced-Carbohydrate Diets for Weight and Cardiovascular Risk (Cochrane Review)",
+          "type": "paper",
+          "source": "Naude CE, et al. — Cochrane Database of Systematic Reviews, 2022",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35088407/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how low-carb and balanced-carb diets compare for weight loss. The 2022 Cochrane review pooled 61 randomized trials and 6,925 participants and found little to no difference in weight: about 1.07 kg more loss on low-carb at three to under twelve months and 0.93 kg at twelve months or more, both in people without diabetes. The certainty was rated moderate, though the review judged the overall risk of bias across trials as predominantly high, mostly from missing outcome data.",
+          "examines": "61 RCTs comparing low-carb with balanced-carb diets for weight and cardiovascular risk.",
+          "whyIncluded": "a systematic review on whether carbohydrate ratio affects body weight."
+        },
+        {
+          "title": "Low-Fat vs Low-Carbohydrate Diet on 12-Month Weight Loss (DIETFITS RCT)",
+          "type": "paper",
+          "source": "Gardner CD, et al. — JAMA, 2018",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29466592/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how low-carb compares with low-fat over a full year. DIETFITS, a 12-month randomized trial of 609 adults in JAMA, found a 6.0 kg loss on a healthy low-carb diet and 5.3 kg on a healthy low-fat diet, a 0.7 kg gap that was not statistically significant, and neither genotype nor insulin level predicted who did better. Both groups ate whole foods with heavy counseling, so the trial speaks to food quality as much as to carbs.",
+          "examines": "a year-long RCT of healthy low-carb versus healthy low-fat eating.",
+          "whyIncluded": "a year-long randomized trial of healthy low-carb versus low-fat eating."
+        },
+        {
+          "title": "Weight Loss with a Low-Carbohydrate, Mediterranean, or Low-Fat Diet (DIRECT)",
+          "type": "paper",
+          "source": "Shai I, et al. — New England Journal of Medicine, 2008",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18635428/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers two-year weight outcomes on low-carb, Mediterranean, and low-fat diets. In the DIRECT trial of 322 adults in NEJM, mean two-year weight loss was 2.9 kg on low-fat, 4.4 kg on Mediterranean, and 4.7 kg on low-carb, with the weight-change trajectories differing significantly over time (P<0.001 for the diet-by-time interaction). Adherence was high — 95.4% at one year and 84.6% at two — but the cohort was 86% men, which limits how widely it generalizes.",
+          "examines": "a two-year RCT comparing low-carb, Mediterranean, and low-fat diets.",
+          "whyIncluded": "a two-year randomized trial of low-carb, Mediterranean, and low-fat diets."
+        },
+        {
+          "title": "Very-Low-Carbohydrate Ketogenic Diet vs Low-Fat Diet for Long-Term Weight Loss (Meta-Analysis)",
+          "type": "paper",
+          "source": "Bueno NB, et al. — British Journal of Nutrition, 2013",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23651522/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers the long-term weight difference between ketogenic and low-fat diets. The 2013 meta-analysis of 13 trials and 1,415 participants found a ketogenic diet produced more weight loss at twelve months or longer — about 0.91 kg more (95% CI 0.17 to 1.65), under a kilogram, with the lower bound nearly at zero. The same analysis found LDL cholesterol rose in the ketogenic arm.",
+          "examines": "13 long-follow-up RCTs of very-low-carb ketogenic versus low-fat diets.",
+          "whyIncluded": "a meta-analysis of long-follow-up ketogenic versus low-fat weight trials."
+        },
+        {
+          "title": "Low-Carbohydrate Diets for Long-Term Weight Loss (Meta-Analysis)",
+          "type": "paper",
+          "source": "Silverii GA, et al. — Diabetes, Obesity and Metabolism, 2022",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35373905/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how the low-carb weight advantage changes from early to late follow-up. Across 25 RCTs in adults with obesity (BMI over 30), the 2022 analysis found low-carb led by about 2.6 kg at three to eight months, after which the advantage was no longer present at ten to fourteen months and beyond — the review reports the convergence without proposing a mechanism. The authors note that long-term efficacy and renal-safety data remain limited.",
+          "examines": "25 RCTs tracking the low-carb weight advantage as it changes over time.",
+          "whyIncluded": "a meta-analysis of the low-carb weight advantage over time."
+        },
+        {
+          "title": "Energy Expenditure and Body Composition After an Isocaloric Ketogenic Diet",
+          "type": "paper",
+          "source": "Hall KD, et al. — American Journal of Clinical Nutrition, 2016",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27385608/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether keto increases fat loss at equal calories. In a metabolic-ward study of 17 men in AJCN, switching to an isocaloric ketogenic diet raised energy expenditure by only about 57 to 151 kcal a day, an effect that faded, while body-fat loss did not increase and slowed early on. The sample was small and the four-week phase short, but the controlled setting makes it hard to dismiss.",
+          "examines": "a tightly controlled inpatient test of the keto 'metabolic advantage' idea.",
+          "whyIncluded": "a controlled inpatient trial of the keto 'metabolic advantage' question."
+        },
+        {
+          "title": "Comparison of Weight Loss Among Named Diet Programs (Meta-Analysis)",
+          "type": "paper",
+          "source": "Johnston BC, et al. — JAMA, 2014",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25182101/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how the major named diets compare for weight loss. The 2014 JAMA meta-analysis of 48 randomized trials and 7,286 participants found low-carbohydrate and low-fat programs produced nearly identical weight loss — about 8.7 versus 8.0 kg at six months and 7.3 versus 7.3 kg at twelve months — and concluded the differences between named diets were small. It pooled many different programs, so it speaks to diet class rather than any single plan.",
+          "examines": "a network meta-analysis of named diet programs (Atkins, Zone, and others) for weight loss.",
+          "whyIncluded": "a meta-analysis on how low-carb and low-fat weight loss compare across the major named diets."
+        }
+      ]
+    },
+    {
+      "slug": "blood-sugar",
+      "title": "Blood Sugar & Insulin Sensitivity",
+      "question": "What does the research show about carbohydrate restriction and blood-sugar markers, and what are the cautions?",
+      "sources": [
+        {
+          "title": "Low and Very-Low-Carbohydrate Diets for Type 2 Diabetes Remission (Meta-Analysis)",
+          "type": "paper",
+          "source": "Goldenberg JZ, et al. — BMJ, 2021",
+          "url": "https://doi.org/10.1136/bmj.m4743",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers low-carb diets and blood-sugar markers in type 2 diabetes. The 2021 BMJ meta-analysis of 23 trials and 1,357 participants reported that at six months more people met a diabetes-remission threshold on low-carb (57% versus 31%; risk difference 0.32, 95% CI 0.17 to 0.47); at twelve months the authors note remission data were sparse, ranging from a small effect to a trivial increased risk. They conclude, on moderate-to-low-certainty evidence, that six months of a low-carb diet may bring remission without adverse consequences.",
+          "examines": "pooled RCT data on low-carb diets and glycemic outcomes in type 2 diabetes.",
+          "whyIncluded": "a meta-analysis of low-carb diets, diabetes remission, and glycemic markers."
+        },
+        {
+          "title": "Very-Low-Carbohydrate (Ketogenic) Diets in Type 2 Diabetes (Meta-Analysis)",
+          "type": "paper",
+          "source": "Parry-Strong A, et al. — Diabetes, Obesity and Metabolism, 2022",
+          "url": "https://doi.org/10.1111/dom.14837",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers ketogenic diets and longer-term blood sugar in pre-diabetes or type 2 diabetes. Pooling 8 ketogenic-diet RCTs in 606 people with pre-diabetes or type 2 diabetes, the 2022 analysis found mixed twelve-month HbA1c results — four studies showed essentially no difference versus comparison diets (+0.01%, p=.91) while two showed a reduction (-0.65%, p<.001) — with triglycerides lower (-0.28 mmol/L) and HDL slightly higher (+0.04 mmol/L). The authors conclude the evidence of an advantage over other diets is limited and call for more well-designed trials.",
+          "examines": "ketogenic-specific RCTs and their 12-month glycemic results in pre-diabetes or type 2 diabetes.",
+          "whyIncluded": "a meta-analysis of ketogenic-specific trials and 12-month glycemic outcomes."
+        },
+        {
+          "title": "Dietary Approaches and Glycemic Control in Type 2 Diabetes (Network Meta-Analysis)",
+          "type": "paper",
+          "source": "Jing T, et al. — Nutrients, 2023",
+          "url": "https://doi.org/10.3390/nu15143156",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how low-carb ranks against other eating patterns for blood sugar. The 2023 network meta-analysis of 42 trials and 4,809 participants estimated a low-carbohydrate diet lowered HbA1c by about 0.69 points versus control, with the certainty of its estimates assessed using the GRADE approach. The authors note that long-term, high-quality data are limited and call for further long-term studies.",
+          "examines": "a network meta-analysis ranking dietary patterns by glycemic effect.",
+          "whyIncluded": "a network meta-analysis ranking dietary patterns by glycemic effect."
+        },
+        {
+          "title": "A 3-Week Ketogenic Diet and Skeletal-Muscle Insulin Sensitivity (Crossover RCT)",
+          "type": "paper",
+          "source": "Luong TV, et al. — Diabetes (ADA), 2024",
+          "url": "https://doi.org/10.2337/db24-0162",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers a proposed mechanism linking keto and insulin sensitivity. In a randomized crossover trial of 11 adults with obesity and without diabetes, three weeks of a ketogenic diet raised the glucose disposal rate during an insulin clamp, a marker of improved muscle insulin sensitivity. The study is small and short, measured a secondary marker rather than a clinical outcome, and ran alongside 2.2 kg of weight loss that confounds the result.",
+          "examines": "a mechanistic clamp study of short-term keto and insulin sensitivity.",
+          "whyIncluded": "a mechanistic clamp study of short-term keto and insulin sensitivity."
+        },
+        {
+          "title": "Nutrition Therapy for Adults With Diabetes or Prediabetes (ADA Consensus Report)",
+          "type": "disclosure",
+          "source": "Evert AB, et al. — Diabetes Care (American Diabetes Association), 2019",
+          "url": "https://doi.org/10.2337/dci19-0014",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers official diabetes-organization guidance on carbohydrate restriction and its cautions. The American Diabetes Association's 2019 consensus report states that low-carb and very-low-carb patterns have been shown to reduce HbA1c and medication needs, while stressing that no single eating pattern suits everyone. It is direct about the risk: a very-low-carb plan can cause diuresis and a swift drop in blood glucose, so a knowledgeable practitioner should be involved at the start to prevent dehydration and to reduce insulin or other medication and avoid hypoglycemia.",
+          "examines": "a major diabetes body's position on carbohydrate restriction and its cautions.",
+          "whyIncluded": "a diabetes-organization consensus report on carbohydrate restriction and its cautions."
+        },
+        {
+          "title": "Two-Year Outcomes of a Continuous-Care Intervention Including Nutritional Ketosis (Type 2 Diabetes)",
+          "type": "paper",
+          "source": "Athinarayanan SJ, et al. — Frontiers in Endocrinology, 2019 (non-randomized; industry-funded)",
+          "url": "https://doi.org/10.3389/fendo.2019.00348",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers a supervised two-year ketosis program's blood-sugar and medication outcomes. In an open-label, non-randomized program of 262 supervised participants, this two-year study found HbA1c about 12% below baseline and fasting insulin roughly 42% lower. It was not randomized, which weakens any causal claim, and it was funded by the company that ran the program, so it stands as an outcome under intensive medical supervision and not as evidence that a diet treats or reverses diabetes.",
+          "examines": "a supervised two-year ketosis program's glycemic and medication outcomes.",
+          "whyIncluded": "a non-randomized two-year study of a supervised ketosis program's glycemic and medication outcomes."
+        },
+        {
+          "title": "Dietary Carbohydrate Restriction in Type 2 Diabetes (Meta-Analysis)",
+          "type": "paper",
+          "source": "Snorgaard O, et al. — BMJ Open Diabetes Research & Care, 2017",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28316796/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how the degree of carbohydrate restriction tracks with blood-sugar control. The 2017 meta-analysis of 10 trials and 1,376 people with type 2 diabetes found low-carb diets lowered HbA1c by about 0.34% in the first year versus higher-carb diets, with a dose-response by degree of restriction, but at one year or later HbA1c was similar between the groups. The longer-term comparison rested on fewer trials.",
+          "examines": "a meta-analysis of carbohydrate-restriction degree and HbA1c in type 2 diabetes.",
+          "whyIncluded": "a meta-analysis on whether the amount of carbohydrate restriction affects blood-sugar control over time."
+        }
+      ]
+    },
+    {
+      "slug": "appetite-adherence",
+      "title": "Appetite, Satiety & Adherence",
+      "question": "Does keto reduce hunger, and is it easier or harder to stick to than other diets?",
+      "sources": [
+        {
+          "title": "Do Ketogenic Diets Really Suppress Appetite? (Systematic Review and Meta-Analysis)",
+          "type": "paper",
+          "source": "Gibson AA, et al. — Obesity Reviews, 2015",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25402637/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether ketosis changes appetite during weight loss. This 2015 systematic review found that while people were in ketosis during weight loss they reported less hunger and a lower desire to eat, but the authors stress the absolute changes were small. They frame the effect as preventing the rise in appetite that normally accompanies weight loss, rather than as strong hunger suppression.",
+          "examines": "a meta-analysis of subjective appetite ratings during ketogenic weight loss.",
+          "whyIncluded": "a meta-analysis of subjective appetite ratings during ketogenic weight loss."
+        },
+        {
+          "title": "Ketosis and Appetite-Mediating Hormones After Weight Loss",
+          "type": "paper",
+          "source": "Sumithran P, et al. — European Journal of Clinical Nutrition, 2013",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23632752/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers a hormonal mechanism for appetite during ketosis. In 39 people who lost about 13% of their weight, the normal post-diet rise in ghrelin, the main hunger hormone, was suppressed while they stayed ketotic, and subjective appetite was lower than after they resumed eating. The sample was modest and there was no separate non-ketogenic comparison group.",
+          "examines": "an interventional study of ghrelin and appetite during and after ketosis.",
+          "whyIncluded": "an interventional study of appetite hormones during and after ketosis."
+        },
+        {
+          "title": "Timeline of Appetite Changes During Weight Loss With a Ketogenic Diet",
+          "type": "paper",
+          "source": "Nymo S, et al. — International Journal of Obesity, 2017",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28439092/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how hunger changes across the phases of a ketogenic diet. In 31 adults with obesity, hunger actually rose in the first few days of the diet, and only later, once ketosis was established, did appetite stop climbing; when ketosis ended at refeeding, hunger and ghrelin rose again. There was no control group, so the findings describe a pattern rather than prove cause.",
+          "examines": "a longitudinal look at how hunger shifts across the phases of a ketogenic diet.",
+          "whyIncluded": "a longitudinal study of hunger across the phases of keto."
+        },
+        {
+          "title": "A High-Protein Ketogenic Diet and Hunger in Obese Men Feeding Ad Libitum",
+          "type": "paper",
+          "source": "Johnstone AM, et al. — American Journal of Clinical Nutrition, 2008",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18175736/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers spontaneous food intake on a ketogenic versus moderate-carb diet. In a randomized crossover of 17 obese men eating freely, the ketogenic phase led to lower spontaneous intake (7.25 versus 7.95 MJ a day), lower hunger, and more weight loss (6.34 versus 4.35 kg) than a moderate-carb phase. Both diets were high in protein (30% of energy), so protein was held constant and the difference tracks the carbohydrate change — though the trial was small, male-only, and ran four weeks per phase.",
+          "examines": "a controlled-feeding crossover of a high-protein ketogenic diet eaten ad libitum.",
+          "whyIncluded": "a controlled-feeding crossover of a high-protein ketogenic diet eaten freely."
+        },
+        {
+          "title": "Plant-Based Low-Fat vs Animal-Based Ketogenic Diet on Ad Libitum Energy Intake",
+          "type": "paper",
+          "source": "Hall KD, et al. — Nature Medicine, 2021",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33479499/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers which diet people spontaneously eat less of, low-fat plant-based or animal-based keto. In a metabolic-ward crossover of 20 adults eating freely, people consumed roughly 550 to 690 kcal a day less on a low-fat plant-based diet than on an animal-based ketogenic diet. The periods were two weeks each and the diets differed in more than carbs, in a tightly controlled inpatient setting.",
+          "examines": "an inpatient test of which diet people spontaneously eat less of.",
+          "whyIncluded": "an inpatient crossover of spontaneous intake on plant-based low-fat versus animal-based keto."
+        },
+        {
+          "title": "Adherence to Ketogenic and Mediterranean Diets in a Crossover Trial (Keto-Med)",
+          "type": "paper",
+          "source": "Landry MJ, et al. — Nutrients, 2021",
+          "url": "https://doi.org/10.3390/nu13030967",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how adherence to keto compares with a Mediterranean diet. In a crossover trial of 40 adults, people followed the ketogenic and Mediterranean diets about equally well while meals were delivered, and adherence to both fell once they shopped for themselves; at follow-up, 85% had drifted back toward Mediterranean-style eating rather than ketogenic. The sample was small and adherence scores are not standardized, so it signals rather than settles the sustainability question.",
+          "examines": "a head-to-head look at how well people stick to keto versus Mediterranean eating.",
+          "whyIncluded": "a head-to-head comparison of adherence to keto versus Mediterranean eating."
+        },
+        {
+          "title": "Atkins, Ornish, Weight Watchers, and Zone Diets for Weight Loss (Randomized Trial)",
+          "type": "paper",
+          "source": "Dansinger ML, et al. — JAMA, 2005",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/15632335/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how well people actually stick to different diets over a year. In this 2005 JAMA randomized trial assigning 160 adults to the Atkins, Ornish, Weight Watchers, or Zone diets, one-year completion ranged from 50% to 65% across the groups, and the amount of weight lost tracked with self-reported adherence rather than which diet was assigned. It was a modest-sized trial and adherence was self-reported.",
+          "examines": "a randomized trial of one-year adherence and weight loss across four popular diets.",
+          "whyIncluded": "a randomized trial on how diet adherence, more than diet type, relates to weight loss."
+        }
+      ]
+    },
+    {
+      "slug": "keto-adaptation",
+      "title": "Keto Adaptation, Electrolytes & Lipids",
+      "question": "What happens to the body when you start keto, and how does it change blood lipids?",
+      "sources": [
+        {
+          "title": "Ketogenic Diet and Cardiovascular Risk Factors (Meta-Analysis of RCTs)",
+          "type": "paper",
+          "source": "Wang Z, et al. — American Journal of Clinical Nutrition, 2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39097343/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how a ketogenic diet shifts blood lipids. Across 27 RCTs and 1,278 participants, the 2024 meta-analysis found triglycerides fell about 0.20 mmol/L and HDL rose about 0.16 mmol/L, while LDL cholesterol and total cholesterol both rose, about 0.35 and 0.36 mmol/L. The authors call the rise in LDL and total cholesterol a reason for a cautious approach — and these are lipid risk markers, not long-term cardiovascular outcomes.",
+          "examines": "pooled RCT data on how keto shifts triglycerides, HDL, and LDL.",
+          "whyIncluded": "a meta-analysis of keto's effect on triglycerides, HDL, and LDL."
+        },
+        {
+          "title": "A Ketogenic Diet Increases LDL Cholesterol in Healthy Normal-Weight Women (Controlled-Feeding RCT)",
+          "type": "paper",
+          "source": "Burén J, et al. — Nutrients, 2021",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33801247/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers who tends to see the largest LDL rise on keto. In a controlled-feeding crossover of healthy young normal-weight women (24 enrolled, 17 completed), four weeks of a ketogenic diet raised LDL cholesterol by 1.82 mmol/L, with both buoyant and small-dense LDL increasing. The sample was small and lean and the diet was supplied, so it shows a clear signal in one group rather than a population average.",
+          "examines": "a controlled-feeding trial of keto's lipid effect in lean healthy women.",
+          "whyIncluded": "a controlled-feeding trial of keto's lipid effect in lean healthy women."
+        },
+        {
+          "title": "Carbohydrate Restriction, Elevated LDL, and Atherosclerosis (The KETO Trial)",
+          "type": "paper",
+          "source": "Budoff M, et al. — JACC: Advances, 2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39372369/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers what very high LDL on keto means for arterial plaque. In a matched imaging study of 80 long-term ketogenic dieters with very high LDL, mean 272 mg/dL, versus 80 controls, coronary plaque scores did not differ significantly between the groups, and LDL did not track with plaque in either. It is a single cross-sectional snapshot rather than an outcomes trial, so it cannot establish long-term safety.",
+          "examines": "a plaque-imaging comparison of high-LDL keto dieters and matched controls.",
+          "whyIncluded": "a plaque-imaging comparison of high-LDL keto dieters and matched controls."
+        },
+        {
+          "title": "The 'Lean Mass Hyper-Responder' Lipid Phenotype (Case Report)",
+          "type": "paper",
+          "source": "Norwitz NG, et al. — Frontiers in Endocrinology, 2022",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35498420/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers an extreme LDL response to carbohydrate restriction in lean people. The 2022 report describes a lean person whose LDL cholesterol rose from 95 mg/dL before low-carb to a peak of 545 mg/dL, alongside high HDL and low triglycerides, the triad the authors call a lean mass hyper-responder. As a one-patient report it illustrates individual variation and cannot say how common the pattern is or what it means for risk.",
+          "examines": "a case report defining an extreme lipid response to carbohydrate restriction.",
+          "whyIncluded": "a case report defining an extreme lipid response to carbohydrate restriction."
+        },
+        {
+          "title": "Symptoms During Initiation of a Ketogenic Diet ('Keto Flu'): A Scoping Review",
+          "type": "report",
+          "source": "Skartun K, et al. — Frontiers in Nutrition, 2025",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11978633/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers the early adjustment period some people call the keto flu. This 2025 scoping review of 89 sources reports that transient symptoms tend to appear within two to three days and resolve within two to four weeks, with widely varying frequencies such as headache at 8 to 25% and muscle cramps at 3 to 37%. The review is candid that no study has yet measured these symptoms alongside actual electrolyte or body-water changes, so the common electrolyte explanation is proposed rather than proven.",
+          "examines": "a review of how often early ketogenic-diet symptoms occur and the proposed mechanisms.",
+          "whyIncluded": "a review of how often early ketogenic-diet symptoms occur and the proposed mechanisms."
+        },
+        {
+          "title": "Ketogenic Diets, Aldosterone, and Renin (Controlled-Feeding RCT)",
+          "type": "paper",
+          "source": "Belany P, et al. — Journal of Clinical Endocrinology & Metabolism, 2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36629058/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how keto shifts the salt-regulating hormones. In a six-week controlled-feeding study — 28 people randomized to a ketogenic diet with either a ketone-salt supplement or placebo, plus a 12-person low-fat comparison — aldosterone rose 88% on keto-plus-placebo and 144% on keto-plus-ketone-salt while renin fell; blood pressure was unchanged, and the authors note the underlying mechanism is not yet established. It is small and short and measured hormones rather than symptoms.",
+          "examines": "a feeding trial of the hormones that govern sodium and fluid balance on keto.",
+          "whyIncluded": "a feeding trial of the salt-regulating hormones aldosterone and renin on keto."
+        },
+        {
+          "title": "Low-Density Lipoproteins Cause Atherosclerotic Cardiovascular Disease (EAS Consensus Statement)",
+          "type": "paper",
+          "source": "Ference BA, et al. — European Heart Journal, 2017",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28444290/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether LDL cholesterol causes cardiovascular disease. The European Atherosclerosis Society's 2017 consensus statement, pooling genetic, epidemiologic, and clinical evidence, concludes that LDL \"causes ASCVD\" through a dose-dependent, log-linear relationship that grows with the cumulative years of exposure. Its evidence comes from lifelong genetic and drug-based LDL lowering, not diet-induced changes, so it says nothing about keto or diet-induced LDL changes directly.",
+          "examines": "the pooled genetic, epidemiologic, and clinical evidence on whether LDL cholesterol causes cardiovascular disease.",
+          "whyIncluded": "a cardiology consensus statement on whether LDL cholesterol causes cardiovascular disease."
+        },
+        {
+          "title": "Dietary Carbohydrate Intake and Mortality (Cohort Study and Meta-Analysis)",
+          "type": "paper",
+          "source": "Seidelmann SB, et al. — The Lancet Public Health, 2018",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30122560/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers the association between carbohydrate intake and mortality. A 2018 Lancet Public Health cohort of 15,428 adults plus a meta-analysis of 432,179 people found a U-shaped link between carbohydrate intake and mortality: lowest risk near 50 to 55% of energy from carbs, with both low (under 40%) and high (over 70%) intake carrying higher mortality (hazard ratios about 1.20 and 1.23). Risk rose when carbs were replaced by animal fat and protein and fell when the replacement was plant-based. These are confounded observational data, not a trial.",
+          "examines": "a large cohort plus meta-analysis of carbohydrate intake and all-cause mortality.",
+          "whyIncluded": "a large cohort and meta-analysis of carbohydrate intake and all-cause mortality."
+        },
+        {
+          "title": "Apolipoprotein B Particles and Cardiovascular Disease (Narrative Review)",
+          "type": "paper",
+          "source": "Sniderman AD, et al. — JAMA Cardiology, 2019",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31642874/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether apoB is a better cardiovascular-risk marker than LDL cholesterol. A 2019 JAMA Cardiology review argues that apolipoprotein B — essentially the atherogenic-particle count — \"more accurately measures the atherogenic risk ... than does low-density lipoprotein cholesterol.\" The keto lipid studies here report LDL-cholesterol concentration, not apoB, so the metric where the low-carb-lipid debate actually lives is largely unmeasured in them. It is a narrative review, not new trial data.",
+          "examines": "the case that apoB particle number is a better atherogenic-risk marker than LDL cholesterol concentration.",
+          "whyIncluded": "a review of apoB particle number versus LDL cholesterol as a risk marker."
+        },
+        {
+          "title": "Low-Carbohydrate and Ketogenic Diets and Cardiometabolic Risk (National Lipid Association Statement)",
+          "type": "paper",
+          "source": "Kirkpatrick CF, et al. — Journal of Clinical Lipidology, 2019",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31611148/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers a lipid-specialty body's read on low-carb and ketogenic diets and heart-risk markers. The National Lipid Association's 2019 statement concludes these diets are not superior to other approaches for weight loss, may help appetite, triglycerides, and diabetes medication use, and have mixed effects on LDL cholesterol — with some people showing an increase. It flags caution for high-risk individuals such as those with genetic lipid disorders. It is an expert synthesis of prior evidence, not new trial data.",
+          "examines": "a National Lipid Association scientific statement on low-carb and ketogenic diets and cardiometabolic risk.",
+          "whyIncluded": "a lipid-association scientific statement on low-carb and ketogenic diets' effects on lipids and cardiometabolic risk."
+        }
+      ]
+    },
+    {
+      "slug": "carb-science",
+      "title": "Net Carbs, Fiber & Glycemic Response",
+      "question": "What is the science behind net carbs, fiber, sugar alcohols, and how foods raise blood glucose?",
+      "sources": [
+        {
+          "title": "Glycemic Index of Foods: A Physiological Basis for Carbohydrate Exchange",
+          "type": "paper",
+          "source": "Jenkins DJ, et al. — American Journal of Clinical Nutrition, 1981",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/6259925/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers the origin of the glycemic-index concept. The 1981 paper tested 62 foods in small groups of healthy volunteers and defined the glycemic index as a food's two-hour blood-glucose response expressed as a percentage of pure glucose. It found large differences by food, with legumes and dairy near the bottom; because the index is measured per equal carbohydrate load rather than per serving, later work added the glycemic-load concept.",
+          "examines": "the original study that defined the glycemic index.",
+          "whyIncluded": "the original study defining the glycemic index."
+        },
+        {
+          "title": "Dietary Fiber, Glycemic Load, and Risk of Type 2 Diabetes in Women",
+          "type": "paper",
+          "source": "Salmerón J, et al. — JAMA, 1997",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9020271/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how glycemic load and fiber relate to diabetes risk. Following 65,173 women for six years, this cohort study found a higher glycemic load associated with greater diabetes risk, relative risk 1.47, and higher cereal fiber associated with lower risk, relative risk 0.72. Being observational it shows association rather than cause, and diet was measured by questionnaire.",
+          "examines": "a large prospective cohort linking glycemic load and fiber to diabetes risk.",
+          "whyIncluded": "a prospective cohort linking glycemic load and fiber to diabetes risk."
+        },
+        {
+          "title": "Carbohydrate Quality and Human Health (Systematic Reviews and Meta-Analyses)",
+          "type": "paper",
+          "source": "Reynolds A, et al. — The Lancet, 2019",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30638909/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how fiber compares with the glycemic index for health outcomes. Pooling 185 prospective studies and 58 trials, the 2019 Lancet analysis linked higher fiber intake to 15 to 30% lower all-cause and cardiovascular mortality, with the most benefit around 25 to 29 grams a day, while the glycemic index and load showed smaller and lower-certainty effects. It points to total fiber as the stronger signal.",
+          "examines": "a large synthesis comparing fiber, glycemic index, and glycemic load.",
+          "whyIncluded": "a large synthesis comparing fiber, glycemic index, and glycemic load."
+        },
+        {
+          "title": "Erythritol: Metabolism and Glycemic Effect (Review)",
+          "type": "paper",
+          "source": "Mazi TA, Stanhope KL — Nutrients, 2023",
+          "url": "https://doi.org/10.3390/nu15010204",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers why erythritol is treated as near-zero carb. This 2023 review reports erythritol has a glycemic index near 0 and an insulin index of about 2, and that roughly 90% of a dose is excreted unchanged in urine within a day. It is a review rather than a trial, and it notes a separate, unsettled debate about circulating erythritol and cardiovascular events that is confounded by the body's own production.",
+          "examines": "a review of how the body handles erythritol and its glycemic effect.",
+          "whyIncluded": "a review of how the body handles erythritol and its glycemic effect."
+        },
+        {
+          "title": "Maltitol: Metabolism and Health Impacts (Review)",
+          "type": "report",
+          "source": "Saraiva A, et al. — Int. Journal of Environmental Research and Public Health, 2020",
+          "url": "https://doi.org/10.3390/ijerph17145227",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers the sugar alcohol maltitol and its effect on blood glucose. The 2020 review reports maltitol has a glycemic index of about 36 as a crystal and 52 as a syrup, because it is partly absorbed before the rest is fermented in the colon. A standard dose raises blood glucose less than sugar but still meaningfully, which is why subtracting all sugar alcohols as if they were free can understate a food's real carbs.",
+          "examines": "a review of maltitol's absorption and blood-glucose effect.",
+          "whyIncluded": "a review of maltitol's absorption and blood-glucose effect."
+        },
+        {
+          "title": "Glycemic Effects of Rebaudioside A and Erythritol in People With Glucose Intolerance",
+          "type": "paper",
+          "source": "Shin DH, et al. — Diabetes & Metabolism Journal, 2016",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27352150/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers a stevia-erythritol sweetener's effect on blood sugar in glucose-intolerant adults. In a small trial of 25 adults with glucose intolerance, two weeks of a rebaudioside-A-and-erythritol sweetener produced no significant change in fasting glucose, insulin, C-peptide, or fructosamine. The study was small and single-arm with no placebo, and the two ingredients were given together, so it cannot isolate erythritol alone.",
+          "examines": "a clinical test of a stevia-erythritol sweetener on glucose markers.",
+          "whyIncluded": "a clinical trial of a stevia-erythritol sweetener on glucose markers."
+        },
+        {
+          "title": "Reliability of Glycemic Index Values and Sources of Variability",
+          "type": "paper",
+          "source": "Matthan NR, et al. — American Journal of Clinical Nutrition, 2016",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27604773/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how reproducible a single food's glycemic index is. A 2016 American Journal of Clinical Nutrition study measured white bread repeatedly and found its GI averaged 62 but varied about 20% within a person and 25% between people, leading the authors to conclude GI is \"unlikely to be a good approach to guiding food choices\" for individuals. It tested one food in a controlled lab, but it is why a published GI number is a rough guide, not a fixed property of a food.",
+          "examines": "the reproducibility of glycemic-index measurement within and between people.",
+          "whyIncluded": "a study of glycemic-index reproducibility within and between people."
+        },
+        {
+          "title": "Personalized Nutrition by Prediction of Glycemic Responses",
+          "type": "paper",
+          "source": "Zeevi D, et al. — Cell, 2015",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26590418/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers why identical foods raise blood glucose differently in different people. A 2015 Cell study profiled an 800-person cohort across 46,898 meals with continuous glucose monitors and found \"high variability in the response to identical meals\"; a separate blinded randomized arm then showed meals tailored to its algorithm produced lower post-meal glucose. The authors concluded that \"universal dietary recommendations may have limited utility.\" It is one cohort plus a short validation trial.",
+          "examines": "person-to-person variability in blood-glucose response to identical meals.",
+          "whyIncluded": "a study of person-to-person variability in glucose response to identical meals."
+        },
+        {
+          "title": "The Artificial Sweetener Erythritol and Cardiovascular Event Risk",
+          "type": "paper",
+          "source": "Witkowski M, et al. — Nature Medicine, 2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36849732/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers a reported cardiovascular signal for erythritol. A 2023 Nature Medicine study found higher circulating erythritol associated with three-year major adverse cardiovascular events (top-versus-bottom-quartile hazard ratios about 1.8 and 2.2 across cohorts), and showed erythritol enhanced platelet clotting in the lab and after ingestion in volunteers. The cohort associations are confounded and the field is unsettled.",
+          "examines": "an association study plus mechanistic work on erythritol and cardiovascular events and clotting.",
+          "whyIncluded": "an association-plus-mechanistic study of erythritol and cardiovascular events."
+        },
+        {
+          "title": "Glycemic Index, Glycemic Load and Glycemic Response (International Scientific Consensus)",
+          "type": "paper",
+          "source": "Augustin LSA, et al. — Nutrition, Metabolism & Cardiovascular Diseases, 2015",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26160327/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers the expert-consensus definitions of glycemic index, load, and response. The 2015 International Carbohydrate Quality Consortium summit concluded that low-GI and low-glycemic-load diets are relevant to preventing and managing diabetes and coronary heart disease, and probably obesity, and should be considered within an otherwise healthy, fiber- and whole-grain-rich diet. It is an expert consensus synthesis, not a single trial, and reported only moderate-to-weak associations for cancer.",
+          "examines": "an international expert-consensus statement defining glycemic index, load, and response.",
+          "whyIncluded": "an expert-consensus statement on what glycemic index and load mean and where they matter."
+        }
+      ]
+    }
+  ]
+}
