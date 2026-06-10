@@ -4,7 +4,7 @@ Copper Keto Companion curates the primary research behind a ketogenic diet — t
 
 > **Educational information, not medical advice.** This is a curated summary of published research for general information. It is not medical advice and not a recommendation to start, stop, or change any diet, supplement, or treatment. Talk to a qualified healthcare professional before making changes. Copper Keto Companion and Copper Sun Content and Creative, LLC are not medical providers; individual results vary.
 
-The curated research behind **[Copper Keto Companion](https://coppersuncompanion.com/keto)** — **44 primary sources** across 5 topics, each verified by fetching the source and annotated with what it actually found. Live, linked version: <https://coppersuncompanion.com/keto/research>.
+The curated research behind **[Copper Keto Companion](https://coppersuncompanion.com/keto)** — **49 primary sources** across 6 topics, each verified by fetching the source and annotated with what it actually found. Live, linked version: <https://coppersuncompanion.com/keto/research>.
 
 ## Topics
 
@@ -13,6 +13,7 @@ The curated research behind **[Copper Keto Companion](https://coppersuncompanion
 - [Appetite, Satiety & Adherence](topics/appetite-adherence.md) — 7 sources: Does keto reduce hunger, and is it easier or harder to stick to than other diets?
 - [Keto Adaptation, Electrolytes & Lipids](topics/keto-adaptation.md) — 10 sources: What happens to the body when you start keto, and how does it change blood lipids?
 - [Net Carbs, Fiber & Glycemic Response](topics/carb-science.md) — 11 sources: What is the science behind net carbs, fiber, sugar alcohols, and how foods raise blood glucose?
+- [Ketone Testing & Measurement](topics/ketone-testing.md) — 5 sources: How accurate are the different ways to measure ketosis, and what do the numbers mean?
 
 ## How this index is built
 
