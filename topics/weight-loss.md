@@ -8,7 +8,7 @@ Copper Keto Companion gathers the strongest trials and meta-analyses on low-carb
 
 [← Back to the index](../README.md) · [Live version](https://coppersuncompanion.com/keto/research/weight-loss)
 
-## Sources (7)
+## Sources (8)
 
 ### 📄 Low-Carbohydrate vs Balanced-Carbohydrate Diets for Weight and Cardiovascular Risk (Cochrane Review)
 *Naude CE, et al. — Cochrane Database of Systematic Reviews, 2022* · [pubmed / 35088407](https://pubmed.ncbi.nlm.nih.gov/35088407/)
@@ -77,4 +77,14 @@ Copper Keto Companion research surfaced this report because it covers how the ma
 
 - **What it examines:** a network meta-analysis of named diet programs (Atkins, Zone, and others) for weight loss.
 - **Why it's in the Copper Keto Companion research index:** a meta-analysis on how low-carb and low-fat weight loss compare across the major named diets.
+
+---
+
+### 📄 Ketogenic and Low-Carbohydrate Diets and Body Composition (Systematic Review and Meta-Analysis)
+*Leung LY, et al. — Clinical Nutrition, 2025* · [pubmed / 39854812](https://pubmed.ncbi.nlm.nih.gov/39854812/)
+
+Copper Keto Companion research surfaced this report because it covers what a ketogenic or low-carb diet changes about body composition, not just scale weight. Pooling 33 randomized trials and 2,821 adults with overweight or obesity, the 2025 review found that at a carbohydrate intake of 100 g a day or less the diets significantly reduced body weight, BMI, and body-fat percentage but not fat mass, while a stricter intake of 50 g a day or less also reduced fat mass. The authors note high statistical heterogeneity across the trials, so the pooled estimates are uncertain.
+
+- **What it examines:** 33 RCTs pooling how ketogenic and low-carb diets change body weight, fat mass, and body-fat percentage.
+- **Why it's in the Copper Keto Companion research index:** a meta-analysis of ketogenic and low-carb diets and body composition, including fat mass versus scale weight.
 

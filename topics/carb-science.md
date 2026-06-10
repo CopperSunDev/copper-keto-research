@@ -8,7 +8,7 @@ Copper Keto Companion sources the reference science behind carbohydrate counting
 
 [← Back to the index](../README.md) · [Live version](https://coppersuncompanion.com/keto/research/carb-science)
 
-## Sources (10)
+## Sources (11)
 
 ### 📄 Glycemic Index of Foods: A Physiological Basis for Carbohydrate Exchange
 *Jenkins DJ, et al. — American Journal of Clinical Nutrition, 1981* · [Am J Clin Nutr, 1981](https://pubmed.ncbi.nlm.nih.gov/6259925/)
@@ -107,4 +107,14 @@ Copper Keto Companion research surfaced this report because it covers the expert
 
 - **What it examines:** an international expert-consensus statement defining glycemic index, load, and response.
 - **Why it's in the Copper Keto Companion research index:** an expert-consensus statement on what glycemic index and load mean and where they matter.
+
+---
+
+### 📄 Allulose and Postprandial Blood Glucose in Healthy Adults (Systematic Review and Meta-Analysis)
+*Tani Y, et al. — PLOS ONE, 2023* · [PLOS ONE, 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10079081/)
+
+Copper Keto Companion research surfaced this report because it covers allulose, a rare sugar used as a near-zero-carb sweetener. Pooling 8 experiments from 7 studies (145 people per group), the 2023 review found that adding allulose to a carbohydrate meal modestly lowered the post-meal rise in blood glucose — a standardized mean difference of -0.26 (95% CI -0.49 to -0.03) at doses of 10 g or less and -0.28 (95% CI -0.51 to -0.05) at 5 g or less in the incremental area under the glucose curve. The authors caution that the included studies were few and small.
+
+- **What it examines:** a meta-analysis of whether allulose blunts the post-meal blood-glucose rise in healthy adults.
+- **Why it's in the Copper Keto Companion research index:** a meta-analysis of allulose, a rare-sugar sweetener, and its effect on post-meal blood glucose.
 

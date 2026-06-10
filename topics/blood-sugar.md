@@ -8,7 +8,7 @@ Copper Keto Companion collects the trials and the official guidance on carbohydr
 
 [← Back to the index](../README.md) · [Live version](https://coppersuncompanion.com/keto/research/blood-sugar)
 
-## Sources (7)
+## Sources (8)
 
 ### 📄 Low and Very-Low-Carbohydrate Diets for Type 2 Diabetes Remission (Meta-Analysis)
 *Goldenberg JZ, et al. — BMJ, 2021* · [BMJ, 2021](https://doi.org/10.1136/bmj.m4743)
@@ -77,4 +77,14 @@ Copper Keto Companion research surfaced this report because it covers how the de
 
 - **What it examines:** a meta-analysis of carbohydrate-restriction degree and HbA1c in type 2 diabetes.
 - **Why it's in the Copper Keto Companion research index:** a meta-analysis on whether the amount of carbohydrate restriction affects blood-sugar control over time.
+
+---
+
+### 📄 Low-Carbohydrate Diet, Glucose and Lipid Metabolism in Overweight or Obese Type 2 Diabetes (Meta-Analysis)
+*Tian W, et al. — Frontiers in Nutrition, 2025* · [Front Nutr, 2025](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1516086/full)
+
+Copper Keto Companion research surfaced this report because it covers a recent pooling of low-carb trials in overweight or obese type 2 diabetes. Across 17 randomized trials and 1,197 participants, the 2025 meta-analysis found a low-carbohydrate diet lowered HbA1c by 0.36 percentage points (95% CI -0.44 to -0.29), fasting glucose by 10.71 mg/dL, and triglycerides, and raised HDL; LDL cholesterol did not change significantly in this group (+2.61 mg/dL, 95% CI -0.64 to 5.86, p=0.12), who also lost about 3.71 kg. The authors flag variable diet definitions and reliance on self-reported intake as limitations.
+
+- **What it examines:** 17 RCTs pooling low-carb effects on glucose, lipids, and weight in overweight or obese type 2 diabetes.
+- **Why it's in the Copper Keto Companion research index:** a 2025 meta-analysis of low-carb diets and glucose and lipid markers in overweight or obese type 2 diabetes.
 

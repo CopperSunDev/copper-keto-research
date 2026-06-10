@@ -74,6 +74,15 @@
           "capsule": "Copper Keto Companion research surfaced this report because it covers how the major named diets compare for weight loss. The 2014 JAMA meta-analysis of 48 randomized trials and 7,286 participants found low-carbohydrate and low-fat programs produced nearly identical weight loss — about 8.7 versus 8.0 kg at six months and 7.3 versus 7.3 kg at twelve months — and concluded the differences between named diets were small. It pooled many different programs, so it speaks to diet class rather than any single plan.",
           "examines": "a network meta-analysis of named diet programs (Atkins, Zone, and others) for weight loss.",
           "whyIncluded": "a meta-analysis on how low-carb and low-fat weight loss compare across the major named diets."
+        },
+        {
+          "title": "Ketogenic and Low-Carbohydrate Diets and Body Composition (Systematic Review and Meta-Analysis)",
+          "type": "paper",
+          "source": "Leung LY, et al. — Clinical Nutrition, 2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39854812/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers what a ketogenic or low-carb diet changes about body composition, not just scale weight. Pooling 33 randomized trials and 2,821 adults with overweight or obesity, the 2025 review found that at a carbohydrate intake of 100 g a day or less the diets significantly reduced body weight, BMI, and body-fat percentage but not fat mass, while a stricter intake of 50 g a day or less also reduced fat mass. The authors note high statistical heterogeneity across the trials, so the pooled estimates are uncertain.",
+          "examines": "33 RCTs pooling how ketogenic and low-carb diets change body weight, fat mass, and body-fat percentage.",
+          "whyIncluded": "a meta-analysis of ketogenic and low-carb diets and body composition, including fat mass versus scale weight."
         }
       ]
     },
@@ -144,6 +153,15 @@
           "capsule": "Copper Keto Companion research surfaced this report because it covers how the degree of carbohydrate restriction tracks with blood-sugar control. The 2017 meta-analysis of 10 trials and 1,376 people with type 2 diabetes found low-carb diets lowered HbA1c by about 0.34% in the first year versus higher-carb diets, with a dose-response by degree of restriction, but at one year or later HbA1c was similar between the groups. The longer-term comparison rested on fewer trials.",
           "examines": "a meta-analysis of carbohydrate-restriction degree and HbA1c in type 2 diabetes.",
           "whyIncluded": "a meta-analysis on whether the amount of carbohydrate restriction affects blood-sugar control over time."
+        },
+        {
+          "title": "Low-Carbohydrate Diet, Glucose and Lipid Metabolism in Overweight or Obese Type 2 Diabetes (Meta-Analysis)",
+          "type": "paper",
+          "source": "Tian W, et al. — Frontiers in Nutrition, 2025",
+          "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1516086/full",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers a recent pooling of low-carb trials in overweight or obese type 2 diabetes. Across 17 randomized trials and 1,197 participants, the 2025 meta-analysis found a low-carbohydrate diet lowered HbA1c by 0.36 percentage points (95% CI -0.44 to -0.29), fasting glucose by 10.71 mg/dL, and triglycerides, and raised HDL; LDL cholesterol did not change significantly in this group (+2.61 mg/dL, 95% CI -0.64 to 5.86, p=0.12), who also lost about 3.71 kg. The authors flag variable diet definitions and reliance on self-reported intake as limitations.",
+          "examines": "17 RCTs pooling low-carb effects on glucose, lipids, and weight in overweight or obese type 2 diabetes.",
+          "whyIncluded": "a 2025 meta-analysis of low-carb diets and glucose and lipid markers in overweight or obese type 2 diabetes."
         }
       ]
     },
@@ -408,6 +426,15 @@
           "capsule": "Copper Keto Companion research surfaced this report because it covers the expert-consensus definitions of glycemic index, load, and response. The 2015 International Carbohydrate Quality Consortium summit concluded that low-GI and low-glycemic-load diets are relevant to preventing and managing diabetes and coronary heart disease, and probably obesity, and should be considered within an otherwise healthy, fiber- and whole-grain-rich diet. It is an expert consensus synthesis, not a single trial, and reported only moderate-to-weak associations for cancer.",
           "examines": "an international expert-consensus statement defining glycemic index, load, and response.",
           "whyIncluded": "an expert-consensus statement on what glycemic index and load mean and where they matter."
+        },
+        {
+          "title": "Allulose and Postprandial Blood Glucose in Healthy Adults (Systematic Review and Meta-Analysis)",
+          "type": "paper",
+          "source": "Tani Y, et al. — PLOS ONE, 2023",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10079081/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers allulose, a rare sugar used as a near-zero-carb sweetener. Pooling 8 experiments from 7 studies (145 people per group), the 2023 review found that adding allulose to a carbohydrate meal modestly lowered the post-meal rise in blood glucose — a standardized mean difference of -0.26 (95% CI -0.49 to -0.03) at doses of 10 g or less and -0.28 (95% CI -0.51 to -0.05) at 5 g or less in the incremental area under the glucose curve. The authors caution that the included studies were few and small.",
+          "examines": "a meta-analysis of whether allulose blunts the post-meal blood-glucose rise in healthy adults.",
+          "whyIncluded": "a meta-analysis of allulose, a rare-sugar sweetener, and its effect on post-meal blood glucose."
         }
       ]
     }
