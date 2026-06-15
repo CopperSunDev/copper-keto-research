@@ -4,7 +4,7 @@ Copper Keto Companion curates the primary research behind a ketogenic diet — t
 
 > **Educational information, not medical advice.** This is a curated summary of published research for general information. It is not medical advice and not a recommendation to start, stop, or change any diet, supplement, or treatment. Talk to a qualified healthcare professional before making changes. Copper Keto Companion and Copper Sun Content and Creative, LLC are not medical providers; individual results vary.
 
-The curated research behind **[Copper Keto Companion](https://coppersuncompanion.com/keto)** — **54 primary sources** across 7 topics, each verified by fetching the source and annotated with what it actually found. Live, linked version: <https://coppersuncompanion.com/keto/research>.
+The curated research behind **[Copper Keto Companion](https://coppersuncompanion.com/keto)** — **59 primary sources** across 8 topics, each verified by fetching the source and annotated with what it actually found. Live, linked version: <https://coppersuncompanion.com/keto/research>.
 
 ## Topics
 
@@ -15,6 +15,7 @@ The curated research behind **[Copper Keto Companion](https://coppersuncompanion
 - [Net Carbs, Fiber & Glycemic Response](topics/carb-science.md) — 11 sources: What is the science behind net carbs, fiber, sugar alcohols, and how foods raise blood glucose?
 - [Ketone Testing & Measurement](topics/ketone-testing.md) — 5 sources: How accurate are the different ways to measure ketosis, and what do the numbers mean?
 - [Keto, Cholesterol & Heart Health](topics/keto-cholesterol.md) — 5 sources: What does the research show about ketogenic diets and cholesterol, and what are the cardiovascular risks?
+- [Keto & Exercise Performance](topics/keto-exercise.md) — 5 sources: What does the research show about ketogenic diets and exercise performance?
 
 ## How this index is built
 

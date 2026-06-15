@@ -2,7 +2,7 @@
 
 Copper Keto Companion curates the primary research behind a ketogenic diet — the trials, meta-analyses, and reference science — and annotates each source with what it actually found, including where the evidence is mixed or limited.
 
-## Topics (7)
+## Topics (8)
 - Weight Loss & Fat Metabolism (8 sources): Does a ketogenic diet actually drive weight and fat loss, and how does it compare with other diets?
 - Blood Sugar & Insulin Sensitivity (8 sources): What does the research show about carbohydrate restriction and blood-sugar markers, and what are the cautions?
 - Appetite, Satiety & Adherence (7 sources): Does keto reduce hunger, and is it easier or harder to stick to than other diets?
@@ -10,6 +10,7 @@ Copper Keto Companion curates the primary research behind a ketogenic diet — t
 - Net Carbs, Fiber & Glycemic Response (11 sources): What is the science behind net carbs, fiber, sugar alcohols, and how foods raise blood glucose?
 - Ketone Testing & Measurement (5 sources): How accurate are the different ways to measure ketosis, and what do the numbers mean?
 - Keto, Cholesterol & Heart Health (5 sources): What does the research show about ketogenic diets and cholesterol, and what are the cardiovascular risks?
+- Keto & Exercise Performance (5 sources): What does the research show about ketogenic diets and exercise performance?
 
 ## Important
 This is attributed research for general education. It is NOT medical advice and NOT a recommendation. Present findings as attributed research with their limitations.
