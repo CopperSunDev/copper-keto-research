@@ -593,6 +593,241 @@
           "whyIncluded": "a frequently cited study showing that short-term keto does not impair strength performance in elite gymnasts, while reducing body fat."
         }
       ]
+    },
+    {
+      "slug": "cognition",
+      "title": "Ketones, Cognition & Brain Energy",
+      "question": "What does the research show about ketones, the ketogenic diet, and cognition or brain energy?",
+      "sources": [
+        {
+          "title": "Exogenous Ketone Bodies and Cognition Across Health and Disease (Systematic Review and Meta-Analysis)",
+          "type": "paper",
+          "source": "Bonnechère B, et al. — Frontiers in Nutrition, 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41001501/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how much exogenous ketones change cognition. A 2026 systematic review and meta-analysis pooled 29 protocols and 1,117 participants and found a small overall improvement in cognition (standardized mean difference 0.29, 95% CI 0.16 to 0.41), with a larger effect in healthy people (0.36) than in those with mild cognitive impairment or Alzheimer's disease (0.15), a difference that was not statistically significant (P=0.077). The interventions and outcome tests varied widely, and the lower bound of the impaired-group effect sat near zero.",
+          "examines": "a meta-analysis of exogenous-ketone effects on cognition in healthy and impaired groups.",
+          "whyIncluded": "a meta-analysis of exogenous ketones and cognition across populations."
+        },
+        {
+          "title": "A Ketogenic MCT Drink and Cognition in Mild Cognitive Impairment (6-Month RCT)",
+          "type": "paper",
+          "source": "Fortier M, et al. — Alzheimer's & Dementia, 2021",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33103819/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether ketones affect cognition in mild cognitive impairment. In a six-month randomized, placebo-controlled trial, 83 of 122 enrolled adults with mild cognitive impairment completed a 30 g/day ketogenic MCT drink or placebo, and the ketogenic group improved on measures of episodic memory, executive function, and language (for example free and cued recall P=0.047 and verbal fluency P=0.024), with the size of each person's blood-ketone rise correlating with their cognitive change (r about +0.23 to +0.33). The gains were limited to those three domains rather than global cognition, 38% of the ketogenic group dropped out (mostly gastrointestinal), and the drink was industry-formulated.",
+          "examines": "a six-month randomized trial of a ketogenic MCT drink in mild cognitive impairment.",
+          "whyIncluded": "a placebo-controlled trial of a ketogenic drink and cognition in mild cognitive impairment."
+        },
+        {
+          "title": "A Modified Ketogenic Diet in Alzheimer's Disease (Randomized Crossover Trial)",
+          "type": "paper",
+          "source": "Phillips MCL, et al. — Alzheimer's Research & Therapy, 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7901512/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether a ketogenic diet changes cognition or daily function in Alzheimer's disease. In a randomized crossover trial, 21 of 26 participants completed a 12-week modified ketogenic diet, and cognition measured by the ACE-III did not change significantly (+2.12 points, P=0.24), while daily function (+3.13 on the ADCS-ADL, P=0.0067) and quality of life (+3.37 on the QOL-AD, P=0.023) did improve. The sample was small, the cognitive measure showed no significant effect, and the function and quality-of-life gains are open to expectancy effects in an unblinded diet.",
+          "examines": "a 12-week crossover trial of a ketogenic diet in diagnosed Alzheimer's disease.",
+          "whyIncluded": "a randomized crossover trial of a ketogenic diet and cognition in Alzheimer's disease."
+        },
+        {
+          "title": "A Modified Atkins Diet in Mild Cognitive Impairment Due to Alzheimer's (Feasibility RCT)",
+          "type": "paper",
+          "source": "Buchholz A, et al. — Frontiers in Endocrinology, 2024",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10949529/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how feasible a ketogenic-style diet is in mild cognitive impairment and what cognitive signal it shows. In a 12-week feasibility trial, 38 older adults with mild cognitive impairment due to Alzheimer's were randomized to a modified Atkins diet or control and 22 completed, but only two of the diet participants met the adherence criteria, and the memory composite score was 1.37 points higher in the diet group (95% CI −0.87 to 4.90), an estimate whose confidence interval crossed zero. The study was designed to test feasibility rather than efficacy, and the near-total adherence failure is itself a main finding.",
+          "examines": "a feasibility trial of a modified Atkins diet in mild cognitive impairment.",
+          "whyIncluded": "a feasibility trial of a ketogenic-style diet and adherence in mild cognitive impairment."
+        },
+        {
+          "title": "MCT Oil and Cognition in Alzheimer's Disease (Randomized Crossover Study)",
+          "type": "paper",
+          "source": "Juby AG, et al. — Alzheimer's & Dementia: TRCI, 2022",
+          "url": "https://doi.org/10.1002/trc2.12259",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether MCT oil, which raises ketones, improves cognition in Alzheimer's disease. In a randomized, double-blind, placebo-controlled crossover study, 19 of 20 participants completed, and the MCT phase improved some measures (a computerized Cognigram score P=0.003 and the MoCA P=0.04 in the first phase) while the MMSE showed no significant between-group difference, and APOE ε4 status did not change the response. The sample was very small and the benefit appeared only on selected measures and phases rather than across the board.",
+          "examines": "a crossover trial of MCT oil and cognition in Alzheimer's disease.",
+          "whyIncluded": "a controlled crossover trial of MCT-induced ketosis and cognition in Alzheimer's."
+        },
+        {
+          "title": "Oral Ketone Ester, Brain Metabolism, and Cognition (Randomized Controlled Trial)",
+          "type": "paper",
+          "source": "Manolopoulos A, et al. — Alzheimer's & Dementia, 2025",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12739581/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether a ketone ester reaches the brain and shifts cognition in older adults at metabolic risk. In a four-week double-blind randomized trial, 50 cognitively intact adults over 55 with metabolic syndrome took an oral ketone ester or placebo three times a day, and brain beta-hydroxybutyrate rose and brain glutamate fell (both P<0.001) on imaging, while cognitive measures only trended (for example logical memory P=0.052 and gist recall P=0.07) without reaching significance. The endpoints were largely mechanistic surrogates, the dosing lasted only four weeks, and the participants were not cognitively impaired.",
+          "examines": "a four-week trial of a ketone ester on brain metabolism and cognition.",
+          "whyIncluded": "a randomized trial of ketone-ester brain target engagement and cognition."
+        }
+      ]
+    },
+    {
+      "slug": "muscle-body-composition",
+      "title": "Muscle, Lean Mass & Body Composition",
+      "question": "Does a ketogenic diet preserve muscle and lean mass, or change body composition?",
+      "sources": [
+        {
+          "title": "Ketogenic Diet, Muscle Mass, Strength, and Endurance in Adults (Systematic Review and Meta-Analysis)",
+          "type": "paper",
+          "source": "Wang Y, et al. — Journal of Health, Population and Nutrition, 2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41035089/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers what the pooled evidence shows for a ketogenic diet, muscle, and strength. A 2025 systematic review and meta-analysis of 33 studies found no significant difference in muscle mass between ketogenic and other diets (weighted mean difference 0.06 kg, 95% CI −1.97 to 2.09) but a significant decrease in fat-free mass (−0.48 kg, 95% CI −0.73 to −0.23, P<0.001), with no significant change in squat (SMD −0.19) or bench-press strength (SMD −0.15). The pooled studies were heterogeneous, and the fat-free-mass figure may include water and glycogen rather than only muscle.",
+          "examines": "a meta-analysis of keto and muscle mass, fat-free mass, and strength across 33 studies.",
+          "whyIncluded": "a meta-analysis of a ketogenic diet and muscle, fat-free mass, and strength."
+        },
+        {
+          "title": "A Ketogenic Diet and Body Composition in Lean Young Women (Controlled-Feeding RCT)",
+          "type": "paper",
+          "source": "Burén J, et al. — Nutrients, 2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38999778/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how a ketogenic diet changes lean versus fat mass. In a four-week randomized controlled-feeding trial of 17 healthy young normal-weight women with ketosis confirmed by blood beta-hydroxybutyrate, lean mass fell by 1.45 kg (95% CI 1.00 to 1.90, P<0.001) and fat mass fell by 0.66 kg (95% CI 0.32 to 1.00, P<0.001), so the drop in lean mass was about twice the drop in fat mass. The trial lasted only four weeks and had no resistance-training arm, so early water and glycogen shifts cannot be separated from tissue loss.",
+          "examines": "a four-week controlled-feeding trial of keto and lean-versus-fat mass in lean women.",
+          "whyIncluded": "a controlled-feeding trial of a ketogenic diet and body composition in lean women."
+        },
+        {
+          "title": "A Ketogenic Diet, Body Mass, and Performance in Powerlifting and Weightlifting Athletes (RCT)",
+          "type": "paper",
+          "source": "Greene DA, et al. — Journal of Strength and Conditioning Research, 2018",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30335720/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether a ketogenic weight cut preserves lean mass and strength in trained lifters. In a randomized crossover trial of 14 powerlifting and Olympic-weightlifting athletes, a ketogenic phase lowered body mass by 3.26 kg (P=0.038) and lean mass by 2.26 kg (P=0.016), while lifting performance did not differ between the diet phases. The sample was small, and the DXA-measured lean-mass loss may partly reflect muscle glycogen and water rather than contractile protein.",
+          "examines": "a crossover trial of keto, body mass, lean mass, and lifting performance in athletes.",
+          "whyIncluded": "a crossover trial of a ketogenic weight cut and lean-mass retention in lifters."
+        },
+        {
+          "title": "A Ketogenic Diet During Resistance Training in a Caloric Surplus (Randomized Controlled Trial)",
+          "type": "paper",
+          "source": "Vargas S, et al. — Journal of the International Society of Sports Nutrition, 2018",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29986720/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether a ketogenic diet blunts muscle gain during resistance training in a calorie surplus. In an eight-week randomized trial of 24 resistance-trained men eating above maintenance, the ketogenic group did not significantly add muscle mass (−0.1 kg, 95% CI −1.1 to 1.0) while the conventional-diet group did (+1.3 kg, 95% CI 0.5 to 2.2), though the ketogenic group lost fat mass (−0.8 kg). The per-group samples were small and ketosis was tracked only by weekly urine strips.",
+          "examines": "an eight-week trial of keto versus conventional diet for muscle gain during a lean bulk.",
+          "whyIncluded": "a trial of a ketogenic diet and muscle gain during resistance training in a surplus."
+        },
+        {
+          "title": "Resistance Training With a Ketogenic Diet in Overweight Women (Randomized Controlled Trial)",
+          "type": "paper",
+          "source": "Jabekk PT, et al. — Nutrition & Metabolism (Lond), 2010",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20196854/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether resistance training on a ketogenic diet holds lean mass while cutting fat. In a 10-week randomized trial of 18 untrained overweight women, the ketogenic group lost 5.6 kg of fat mass (P=0.001) with no significant change in lean body mass, while the regular-diet group gained 1.6 kg of lean mass (P=0.045) without losing fat. The diet was ad libitum rather than controlled-feeding and the sample was small, and the regular-diet group gained lean mass that the ketogenic group only maintained.",
+          "examines": "a 10-week trial of resistance training plus keto for fat loss and lean-mass retention in women.",
+          "whyIncluded": "a trial of a ketogenic diet plus resistance training and lean-mass retention."
+        },
+        {
+          "title": "A Very-Low-Carbohydrate Ketogenic Diet in Competitive Bodybuilders (Randomized Controlled Trial)",
+          "type": "paper",
+          "source": "Paoli A, et al. — Nutrients, 2021",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33530512/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether a ketogenic diet supports muscle accrual in trained bodybuilders. In a two-month randomized trial of 19 competitive natural bodybuilders, body fat fell significantly on the ketogenic diet (P=0.030) but lean mass increased significantly only in the western-diet group (P<0.001), while maximal strength rose similarly in both. The sample was small, and strength gains did not require the lean-mass gain that only the non-keto group achieved.",
+          "examines": "a two-month trial of keto versus western diet for muscle and strength in bodybuilders.",
+          "whyIncluded": "a trial of a ketogenic diet and muscle accrual in competitive bodybuilders."
+        }
+      ]
+    },
+    {
+      "slug": "kidney-bone-safety",
+      "title": "Kidney, Bone & Safety Markers",
+      "question": "Is a ketogenic diet safe for your kidneys, bones, and uric acid?",
+      "sources": [
+        {
+          "title": "Kidney Stones on the Ketogenic Diet (Systematic Review and Meta-Analysis)",
+          "type": "paper",
+          "source": "Acharya P, et al. — Diseases, 2021",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34070285/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how often kidney stones occur on ketogenic diets. A 2021 systematic review and meta-analysis of 36 studies and 2,795 people on ketogenic diets found a pooled kidney-stone incidence of 5.9% (95% CI 4.6 to 7.6), about 5.8% in children and 7.9% in adults, with roughly 48.7% of the stones made of uric acid. The component studies were mostly observational and heterogeneous, and much of the data comes from therapeutic ketogenic diets used for epilepsy rather than weight-loss keto.",
+          "examines": "a meta-analysis of kidney-stone incidence and composition across ketogenic-diet populations.",
+          "whyIncluded": "a meta-analysis of kidney-stone risk on ketogenic diets."
+        },
+        {
+          "title": "Very-Low-Carbohydrate Diet and Renal Function in Type 2 Diabetes (Randomized Trial)",
+          "type": "paper",
+          "source": "Tay J, et al. — Medicine (Baltimore), 2015",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26632754/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether a very-low-carb diet harms kidney function. In a 12-month randomized trial of 115 adults with type 2 diabetes, the very-low-carb and high-carb groups showed no significant difference in the change in estimated glomerular filtration rate (about −4 versus −2 mL/min/1.73 m², P=0.25) or in albumin excretion, and four of six participants with elevated baseline albuminuria normalized. Both groups were losing weight with exercise and started with largely normal kidney function, so the result may not extend to people with chronic kidney disease.",
+          "examines": "a 12-month trial of very-low-carb versus high-carb diet and kidney function in type 2 diabetes.",
+          "whyIncluded": "a randomized trial of a very-low-carb diet and renal function in type 2 diabetes."
+        },
+        {
+          "title": "Potassium Citrate and Kidney-Stone Prevention on the Ketogenic Diet (Pediatric Cohort)",
+          "type": "paper",
+          "source": "McNally MA, et al. — Pediatrics, 2009",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19596731/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers the kidney-stone risk on a strict ketogenic diet and whether it can be prevented. In a retrospective cohort of 313 children on a ketogenic diet for intractable epilepsy, those given preventive oral potassium citrate had a stone incidence of 0.9% (1 of 106) versus 6.7% (13 of 195, P=0.02) without it, alongside a higher urine pH (6.8 versus 6.2). The study was retrospective and single-center in children on therapeutic keto, so the absolute rates may not transfer to adult weight-loss diets.",
+          "examines": "a pediatric cohort of ketogenic-diet stone risk and citrate prevention.",
+          "whyIncluded": "a cohort study of kidney-stone risk and prevention on a therapeutic ketogenic diet."
+        },
+        {
+          "title": "Bone Mineral Content Loss in Children on the Ketogenic Diet (Longitudinal Cohort)",
+          "type": "paper",
+          "source": "Bergqvist AGC, et al. — American Journal of Clinical Nutrition, 2008",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19064531/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers what a strict ketogenic diet does to bone over time. In a prospective study of 25 children on a 4:1 ketogenic diet for epilepsy followed for 15 months with DXA, whole-body and spine bone mineral content for age each declined by about 0.6 z-score per year. The cohort was small and uncontrolled, and concurrent antiepileptic medications and normal growth make it hard to attribute the bone loss to the diet alone.",
+          "examines": "a 15-month DXA study of bone mineral content in children on a ketogenic diet.",
+          "whyIncluded": "a longitudinal study of bone mineral content on a therapeutic ketogenic diet."
+        },
+        {
+          "title": "A Short-Term Ketogenic Diet and Bone-Turnover Markers in Athletes (Controlled Trial)",
+          "type": "paper",
+          "source": "Heikura IA, et al. — Frontiers in Endocrinology, 2020",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32038477/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether even a short ketogenic diet shifts bone-turnover markers. In a controlled trial of 28 elite race walkers, 3.5 weeks of a low-carb high-fat diet raised the bone-resorption marker CTX by about 22% at rest (P=0.008) and lowered the bone-formation marker P1NP by about 14% (P=0.001) compared with a high-carb diet. The study measured blood markers over only 3.5 weeks rather than actual bone density, and the changes only partly recovered after carbohydrate was restored.",
+          "examines": "a 3.5-week trial of keto and bone-turnover markers in elite athletes.",
+          "whyIncluded": "a controlled trial of a short-term ketogenic diet and bone-turnover markers."
+        },
+        {
+          "title": "Ketogenic Diet and Serum Uric Acid (Systematic Review and Meta-Analysis of RCTs)",
+          "type": "paper",
+          "source": "Gohari S, et al. — Scientific Reports, 2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37380733/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether a ketogenic diet raises uric acid, the marker linked to gout. A 2023 meta-analysis of 6 randomized trials and 267 participants found no significant change in serum uric acid on a ketogenic diet (mean difference 0.26 mg/dL, 95% CI −0.47 to 0.98). The trials were few, small, and short, which may miss the transient rise in uric acid that is commonly reported in the first weeks of ketosis.",
+          "examines": "a meta-analysis of ketogenic diets and serum uric acid.",
+          "whyIncluded": "a meta-analysis of a ketogenic diet and serum uric acid."
+        }
+      ]
+    },
+    {
+      "slug": "fatty-liver",
+      "title": "Fatty Liver (NAFLD) & Liver Fat",
+      "question": "Does a ketogenic or low-carb diet reduce liver fat in fatty liver disease (NAFLD)?",
+      "sources": [
+        {
+          "title": "Lower-Carbohydrate Diets and Fatty Liver Disease (Meta-Analysis of RCTs)",
+          "type": "paper",
+          "source": "Chu Y, et al. — Nutrition & Metabolism, 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41555432/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers what pooled trials show for lower-carb diets and fatty liver. A 2026 systematic review and meta-analysis of 9 randomized trials and 408 patients with metabolic-associated fatty liver disease found body weight fell by 4.09 kg (95% CI −7.36 to −0.81) and liver enzymes improved at 12 weeks (ALT −17.09 U/L, AST −6.19 U/L), while the authors described the short-term effects on liver fat itself as limited. The trials were few and small with varied diet definitions, so the pooled liver-fat estimate is uncertain.",
+          "examines": "a meta-analysis of lower-carb diets, liver enzymes, and liver fat in fatty liver disease.",
+          "whyIncluded": "a meta-analysis of lower-carbohydrate diets and fatty liver disease."
+        },
+        {
+          "title": "Carbohydrate Restriction and Hepatic Triglyceride Reduction (Controlled Trial)",
+          "type": "paper",
+          "source": "Browning JD, et al. — American Journal of Clinical Nutrition, 2011",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21367948/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether cutting carbs lowers liver fat more than cutting calories. In a two-week trial of 18 people with fatty liver disease measured by magnetic resonance spectroscopy, liver triglyceride fell more on carbohydrate restriction (−55%) than on calorie restriction (−28%, P=0.008) even though weight loss was similar (about −4.6 versus −4.0 kg). The trial was very short at two weeks with a small sample, and the weight loss was not perfectly matched.",
+          "examines": "a two-week trial comparing carbohydrate restriction with calorie restriction for liver fat.",
+          "whyIncluded": "a controlled trial of carbohydrate restriction and liver triglyceride."
+        },
+        {
+          "title": "A Ketogenic Diet, Hepatic Steatosis, and Mitochondrial Metabolism in Fatty Liver (Isotope Study)",
+          "type": "paper",
+          "source": "Luukkonen PK, et al. — PNAS, 2020",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32179679/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how quickly and by what mechanism a ketogenic diet lowers liver fat. In a six-day stable-isotope study of 10 overweight people with fatty liver, a ketogenic diet decreased intrahepatic triglyceride by 31% alongside a 3% drop in body weight, increased the partitioning of fatty acids toward ketone production (+232%), and lowered hepatic insulin resistance (−58%), all tied to a 53% fall in serum insulin. The sample was tiny at 10 people, the diet lasted only six days, and there was no isocaloric control group.",
+          "examines": "a six-day isotope study of how a ketogenic diet reduces liver fat.",
+          "whyIncluded": "a mechanistic study of a ketogenic diet and liver-fat metabolism."
+        },
+        {
+          "title": "Reduced-Carbohydrate vs Reduced-Fat Hypocaloric Diets and Liver Fat (Randomized Trial)",
+          "type": "paper",
+          "source": "Haufe S, et al. — Hepatology, 2011",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21400557/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether the type of diet, rather than the weight loss, drives liver-fat reduction. In a six-month randomized trial of 170 overweight and obese adults (102 completed), a reduced-carbohydrate and a reduced-fat hypocaloric diet had the same beneficial effect on liver fat measured by spectroscopy, and people with high baseline liver fat lost about seven-fold more of it regardless of diet composition. About 40% of participants dropped out, and baseline liver fat rather than the diet arm was the main predictor.",
+          "examines": "a six-month trial of low-carb versus low-fat hypocaloric diets and liver fat.",
+          "whyIncluded": "a randomized trial of diet composition versus weight loss for liver-fat reduction."
+        },
+        {
+          "title": "A Ketogenic Diet and Fatty Liver Histology (Biopsy Pilot Study)",
+          "type": "paper",
+          "source": "Tendler D, et al. — Digestive Diseases and Sciences, 2007",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17219068/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether a ketogenic diet changes fatty liver on biopsy, not just on imaging. In an uncontrolled pilot of 5 people who had paired liver biopsies before and after six months of a ketogenic diet under 20 g of carbohydrate a day, four of five showed histologic improvement in steatosis (P=0.02) and inflammation (P=0.02), while the change in fibrosis was not significant (P=0.07), with a mean weight loss of 12.8 kg. The study had only 5 people, no control group, and the large weight loss confounds the diet's specific effect.",
+          "examines": "a six-month biopsy pilot of a ketogenic diet and fatty liver histology.",
+          "whyIncluded": "a biopsy pilot of a ketogenic diet and fatty liver histology."
+        }
+      ]
     }
   ]
 }

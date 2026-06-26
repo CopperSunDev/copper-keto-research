@@ -4,7 +4,7 @@ Copper Keto Companion curates the primary research behind a ketogenic diet — t
 
 > **Educational information, not medical advice.** This is a curated summary of published research for general information. It is not medical advice and not a recommendation to start, stop, or change any diet, supplement, or treatment. Talk to a qualified healthcare professional before making changes. Copper Keto Companion and Copper Sun Content and Creative, LLC are not medical providers; individual results vary.
 
-The curated research behind **[Copper Keto Companion](https://coppersuncompanion.com/keto)** — **59 primary sources** across 8 topics, each verified by fetching the source and annotated with what it actually found. Live, linked version: <https://coppersuncompanion.com/keto/research>.
+The curated research behind **[Copper Keto Companion](https://coppersuncompanion.com/keto)** — **82 primary sources** across 12 topics, each verified by fetching the source and annotated with what it actually found. Live, linked version: <https://coppersuncompanion.com/keto/research>.
 
 ## Topics
 
@@ -16,6 +16,10 @@ The curated research behind **[Copper Keto Companion](https://coppersuncompanion
 - [Ketone Testing & Measurement](topics/ketone-testing.md) — 5 sources: How accurate are the different ways to measure ketosis, and what do the numbers mean?
 - [Keto, Cholesterol & Heart Health](topics/keto-cholesterol.md) — 5 sources: What does the research show about ketogenic diets and cholesterol, and what are the cardiovascular risks?
 - [Keto & Exercise Performance](topics/keto-exercise.md) — 5 sources: What does the research show about ketogenic diets and exercise performance?
+- [Ketones, Cognition & Brain Energy](topics/cognition.md) — 6 sources: What does the research show about ketones, the ketogenic diet, and cognition or brain energy?
+- [Muscle, Lean Mass & Body Composition](topics/muscle-body-composition.md) — 6 sources: Does a ketogenic diet preserve muscle and lean mass, or change body composition?
+- [Kidney, Bone & Safety Markers](topics/kidney-bone-safety.md) — 6 sources: Is a ketogenic diet safe for your kidneys, bones, and uric acid?
+- [Fatty Liver (NAFLD) & Liver Fat](topics/fatty-liver.md) — 5 sources: Does a ketogenic or low-carb diet reduce liver fat in fatty liver disease (NAFLD)?
 
 ## How this index is built
 
