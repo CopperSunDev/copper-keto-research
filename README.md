@@ -4,7 +4,7 @@ Copper Keto Companion curates the primary research behind a ketogenic diet — t
 
 > **Educational information, not medical advice.** This is a curated summary of published research for general information. It is not medical advice and not a recommendation to start, stop, or change any diet, supplement, or treatment. Talk to a qualified healthcare professional before making changes. Copper Keto Companion and Copper Sun Content and Creative, LLC are not medical providers; individual results vary.
 
-The curated research behind **[Copper Keto Companion](https://coppersuncompanion.com/keto)** — **82 primary sources** across 12 topics, each verified by fetching the source and annotated with what it actually found. Live, linked version: <https://coppersuncompanion.com/keto/research>.
+The curated research behind **[Copper Keto Companion](https://coppersuncompanion.com/keto)** — **88 primary sources** across 13 topics, each verified by fetching the source and annotated with what it actually found. Live, linked version: <https://coppersuncompanion.com/keto/research>.
 
 ## Topics
 
@@ -20,13 +20,14 @@ The curated research behind **[Copper Keto Companion](https://coppersuncompanion
 - [Muscle, Lean Mass & Body Composition](topics/muscle-body-composition.md) — 6 sources: Does a ketogenic diet preserve muscle and lean mass, or change body composition?
 - [Kidney, Bone & Safety Markers](topics/kidney-bone-safety.md) — 6 sources: Is a ketogenic diet safe for your kidneys, bones, and uric acid?
 - [Fatty Liver (NAFLD) & Liver Fat](topics/fatty-liver.md) — 5 sources: Does a ketogenic or low-carb diet reduce liver fat in fatty liver disease (NAFLD)?
+- [Type 2 Diabetes & Glycemic Control](topics/type-2-diabetes.md) — 6 sources: What does research show about a ketogenic or low-carb diet for type 2 diabetes?
 
 ## How this index is built
 
 - **Primary sources only**, each verified by fetching it — it resolves and is **not retracted**. No source is written from memory.
 - **Neutral:** every entry reports what a source found, attributed, with its limitations. It recommends nothing and draws no conclusions.
 - **Balanced on purpose:** null, mixed, and adverse findings are included, not just the favorable ones.
-- **Last verified:** June 2026.
+- **Last verified:** September 2026.
 - **Generated from a single canonical config** — this repo is a derived mirror; it is not hand-edited.
 
 ## Machine-readable

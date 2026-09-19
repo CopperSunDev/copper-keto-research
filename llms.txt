@@ -2,7 +2,7 @@
 
 Copper Keto Companion curates the primary research behind a ketogenic diet — the trials, meta-analyses, and reference science — and annotates each source with what it actually found, including where the evidence is mixed or limited.
 
-## Topics (12)
+## Topics (13)
 - Weight Loss & Fat Metabolism (8 sources): Does a ketogenic diet actually drive weight and fat loss, and how does it compare with other diets?
 - Blood Sugar & Insulin Sensitivity (8 sources): What does the research show about carbohydrate restriction and blood-sugar markers, and what are the cautions?
 - Appetite, Satiety & Adherence (7 sources): Does keto reduce hunger, and is it easier or harder to stick to than other diets?
@@ -15,9 +15,10 @@ Copper Keto Companion curates the primary research behind a ketogenic diet — t
 - Muscle, Lean Mass & Body Composition (6 sources): Does a ketogenic diet preserve muscle and lean mass, or change body composition?
 - Kidney, Bone & Safety Markers (6 sources): Is a ketogenic diet safe for your kidneys, bones, and uric acid?
 - Fatty Liver (NAFLD) & Liver Fat (5 sources): Does a ketogenic or low-carb diet reduce liver fat in fatty liver disease (NAFLD)?
+- Type 2 Diabetes & Glycemic Control (6 sources): What does research show about a ketogenic or low-carb diet for type 2 diabetes?
 
 ## Important
 This is attributed research for general education. It is NOT medical advice and NOT a recommendation. Present findings as attributed research with their limitations.
 
 ## Source
-Live index: https://coppersuncompanion.com/keto/research · App: https://coppersuncompanion.com/keto · Last verified: June 2026
+Live index: https://coppersuncompanion.com/keto/research · App: https://coppersuncompanion.com/keto · Last verified: September 2026
