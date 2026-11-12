@@ -774,6 +774,15 @@
           "capsule": "Copper Keto Companion research surfaced this report because it covers whether a ketogenic diet raises uric acid, the marker linked to gout. A 2023 meta-analysis of 6 randomized trials and 267 participants found no significant change in serum uric acid on a ketogenic diet (mean difference 0.26 mg/dL, 95% CI −0.47 to 0.98). The trials were few, small, and short, which may miss the transient rise in uric acid that is commonly reported in the first weeks of ketosis.",
           "examines": "a meta-analysis of ketogenic diets and serum uric acid.",
           "whyIncluded": "a meta-analysis of a ketogenic diet and serum uric acid."
+        },
+        {
+          "title": "Dietary Ketogenic Ratio, Ketone Bodies, and End-Stage Renal Disease in Diabetic Kidney Disease (Multi-Cohort Study)",
+          "type": "paper",
+          "source": "Liu K, et al. — Journal of Diabetes, 2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40793083/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers whether a ketogenic pattern relates to kidney outcomes in people who already have diabetic kidney disease. The 2025 multi-cohort study estimated ketogenic intake with a dietary ketogenic ratio in NHANES data and tracked circulating beta-hydroxybutyrate in a West China cohort of adults with type 2 diabetes and kidney disease: higher ketogenic-ratio quartiles were associated with a lower prevalence of end-stage renal disease, higher beta-hydroxybutyrate was associated with better renal survival with the lowest risk near 0.25 mmol/L, and a Mendelian-randomization analysis found genetically predicted beta-hydroxybutyrate inversely related to creatinine (p=0.007) and cystatin C (p<0.001). The dietary measure is an indirect proxy rather than a measured ketogenic diet, the cohort is limited to people who already have diabetic kidney disease, and the authors state the design cannot establish cause.",
+          "examines": "a multi-cohort analysis of a ketogenic dietary ratio, blood ketones, and end-stage renal disease in diabetic kidney disease.",
+          "whyIncluded": "a multi-cohort study of a ketogenic pattern and kidney outcomes in people with diabetic kidney disease."
         }
       ]
     },
@@ -887,6 +896,15 @@
           "capsule": "Copper Keto Companion research surfaced this report because it covers whether a low-carb advantage in diabetes lasts. In a 2-year randomized trial of 61 people given advice to follow a low-carbohydrate or low-fat diet with similar weight loss, HbA1c improved more on low-carb at 6 months (a fall of 4.8 mmol/mol, P = 0.004) but the difference was no longer significant at 12 months (2.2 mmol/mol, P = 0.12). The trial was small and advice-based rather than supervised feeding, and the glycemic benefit was transient.",
           "examines": "a 2-year randomized trial of low-carb versus low-fat dietary advice in type 2 diabetes.",
           "whyIncluded": "a randomized trial of the durability of a low-carb glycemic advantage."
+        },
+        {
+          "title": "Long-Term Low-Carbohydrate Diets and Type 2 Diabetes Remission (Systematic Review)",
+          "type": "paper",
+          "source": "Das R, et al. — Cureus, 2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41020034/",
+          "capsule": "Copper Keto Companion research surfaced this report because it covers how durable type 2 diabetes remission is on a low-carbohydrate or ketogenic diet. The 2025 systematic review pooled 6 studies with follow-up of 1 to 8 years in adults with type 2 diabetes and reported that remission was highest at 1 year, up to 62%, and declined to 13% by year 5, alongside reductions in HbA1c, body weight, and systolic blood pressure and reduced medication use, with some weight regain and glycemic relapse over time. The review included only 6 studies and drew on non-randomized as well as randomized trials, so the pooled picture is low-certainty.",
+          "examines": "a systematic review of how type 2 diabetes remission on low-carb and ketogenic diets changes from 1 to 5 years.",
+          "whyIncluded": "a systematic review of the durability of type 2 diabetes remission on low-carbohydrate and ketogenic diets."
         }
       ]
     }

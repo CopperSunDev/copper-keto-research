@@ -8,7 +8,7 @@ Copper Keto Companion gathers the type 2 diabetes research here — the remissio
 
 [← Back to the index](../README.md) · [Live version](https://coppersuncompanion.com/keto/research/type-2-diabetes)
 
-## Sources (6)
+## Sources (7)
 
 ### 📄 Low-Carb Diets and Type 2 Diabetes Remission (Meta-Analysis)
 *Goldenberg JZ, et al. — BMJ, 2021* · [pubmed / 33441384](https://pubmed.ncbi.nlm.nih.gov/33441384/)
@@ -67,4 +67,14 @@ Copper Keto Companion research surfaced this report because it covers whether a 
 
 - **What it examines:** a 2-year randomized trial of low-carb versus low-fat dietary advice in type 2 diabetes.
 - **Why it's in the Copper Keto Companion research index:** a randomized trial of the durability of a low-carb glycemic advantage.
+
+---
+
+### 📄 Long-Term Low-Carbohydrate Diets and Type 2 Diabetes Remission (Systematic Review)
+*Das R, et al. — Cureus, 2025* · [pubmed / 41020034](https://pubmed.ncbi.nlm.nih.gov/41020034/)
+
+Copper Keto Companion research surfaced this report because it covers how durable type 2 diabetes remission is on a low-carbohydrate or ketogenic diet. The 2025 systematic review pooled 6 studies with follow-up of 1 to 8 years in adults with type 2 diabetes and reported that remission was highest at 1 year, up to 62%, and declined to 13% by year 5, alongside reductions in HbA1c, body weight, and systolic blood pressure and reduced medication use, with some weight regain and glycemic relapse over time. The review included only 6 studies and drew on non-randomized as well as randomized trials, so the pooled picture is low-certainty.
+
+- **What it examines:** a systematic review of how type 2 diabetes remission on low-carb and ketogenic diets changes from 1 to 5 years.
+- **Why it's in the Copper Keto Companion research index:** a systematic review of the durability of type 2 diabetes remission on low-carbohydrate and ketogenic diets.
 

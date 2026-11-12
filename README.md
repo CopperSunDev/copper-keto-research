@@ -4,7 +4,7 @@ Copper Keto Companion curates the primary research behind a ketogenic diet — t
 
 > **Educational information, not medical advice.** This is a curated summary of published research for general information. It is not medical advice and not a recommendation to start, stop, or change any diet, supplement, or treatment. Talk to a qualified healthcare professional before making changes. Copper Keto Companion and Copper Sun Content and Creative, LLC are not medical providers; individual results vary.
 
-The curated research behind **[Copper Keto Companion](https://coppersuncompanion.com/keto)** — **88 primary sources** across 13 topics, each verified by fetching the source and annotated with what it actually found. Live, linked version: <https://coppersuncompanion.com/keto/research>.
+The curated research behind **[Copper Keto Companion](https://coppersuncompanion.com/keto)** — **90 primary sources** across 13 topics, each verified by fetching the source and annotated with what it actually found. Live, linked version: <https://coppersuncompanion.com/keto/research>.
 
 ## Topics
 
@@ -18,9 +18,9 @@ The curated research behind **[Copper Keto Companion](https://coppersuncompanion
 - [Keto & Exercise Performance](topics/keto-exercise.md) — 5 sources: What does the research show about ketogenic diets and exercise performance?
 - [Ketones, Cognition & Brain Energy](topics/cognition.md) — 6 sources: What does the research show about ketones, the ketogenic diet, and cognition or brain energy?
 - [Muscle, Lean Mass & Body Composition](topics/muscle-body-composition.md) — 6 sources: Does a ketogenic diet preserve muscle and lean mass, or change body composition?
-- [Kidney, Bone & Safety Markers](topics/kidney-bone-safety.md) — 6 sources: Is a ketogenic diet safe for your kidneys, bones, and uric acid?
+- [Kidney, Bone & Safety Markers](topics/kidney-bone-safety.md) — 7 sources: Is a ketogenic diet safe for your kidneys, bones, and uric acid?
 - [Fatty Liver (NAFLD) & Liver Fat](topics/fatty-liver.md) — 5 sources: Does a ketogenic or low-carb diet reduce liver fat in fatty liver disease (NAFLD)?
-- [Type 2 Diabetes & Glycemic Control](topics/type-2-diabetes.md) — 6 sources: What does research show about a ketogenic or low-carb diet for type 2 diabetes?
+- [Type 2 Diabetes & Glycemic Control](topics/type-2-diabetes.md) — 7 sources: What does research show about a ketogenic or low-carb diet for type 2 diabetes?
 
 ## How this index is built
 

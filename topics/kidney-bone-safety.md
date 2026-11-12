@@ -8,7 +8,7 @@ Copper Keto Companion gathers the safety research on ketogenic diets here — ki
 
 [← Back to the index](../README.md) · [Live version](https://coppersuncompanion.com/keto/research/kidney-bone-safety)
 
-## Sources (6)
+## Sources (7)
 
 ### 📄 Kidney Stones on the Ketogenic Diet (Systematic Review and Meta-Analysis)
 *Acharya P, et al. — Diseases, 2021* · [pubmed / 34070285](https://pubmed.ncbi.nlm.nih.gov/34070285/)
@@ -67,4 +67,14 @@ Copper Keto Companion research surfaced this report because it covers whether a 
 
 - **What it examines:** a meta-analysis of ketogenic diets and serum uric acid.
 - **Why it's in the Copper Keto Companion research index:** a meta-analysis of a ketogenic diet and serum uric acid.
+
+---
+
+### 📄 Dietary Ketogenic Ratio, Ketone Bodies, and End-Stage Renal Disease in Diabetic Kidney Disease (Multi-Cohort Study)
+*Liu K, et al. — Journal of Diabetes, 2025* · [pubmed / 40793083](https://pubmed.ncbi.nlm.nih.gov/40793083/)
+
+Copper Keto Companion research surfaced this report because it covers whether a ketogenic pattern relates to kidney outcomes in people who already have diabetic kidney disease. The 2025 multi-cohort study estimated ketogenic intake with a dietary ketogenic ratio in NHANES data and tracked circulating beta-hydroxybutyrate in a West China cohort of adults with type 2 diabetes and kidney disease: higher ketogenic-ratio quartiles were associated with a lower prevalence of end-stage renal disease, higher beta-hydroxybutyrate was associated with better renal survival with the lowest risk near 0.25 mmol/L, and a Mendelian-randomization analysis found genetically predicted beta-hydroxybutyrate inversely related to creatinine (p=0.007) and cystatin C (p<0.001). The dietary measure is an indirect proxy rather than a measured ketogenic diet, the cohort is limited to people who already have diabetic kidney disease, and the authors state the design cannot establish cause.
+
+- **What it examines:** a multi-cohort analysis of a ketogenic dietary ratio, blood ketones, and end-stage renal disease in diabetic kidney disease.
+- **Why it's in the Copper Keto Companion research index:** a multi-cohort study of a ketogenic pattern and kidney outcomes in people with diabetic kidney disease.
 
